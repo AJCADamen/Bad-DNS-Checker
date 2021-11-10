@@ -1,0 +1,13 @@
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.exe
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.deps.json
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.runtimeconfig.json
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.runtimeconfig.dev.json
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.dll
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\bin\Debug\netcoreapp3.1\DNS-Checker.pdb
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.csproj.AssemblyReference.cache
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.AssemblyInfoInputs.cache
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.AssemblyInfo.cs
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.csproj.CoreCompileInputs.cache
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.dll
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.pdb
+D:\School\Minor Cybersecurity\Group\Apps\DNS-Checker\DNS-Checker\obj\Debug\netcoreapp3.1\DNS-Checker.genruntimeconfig.cache
